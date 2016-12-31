@@ -1,0 +1,64 @@
+*{
+    color : rgba(0, 0, 0, 0.61);
+}
+.card-wrapper, .card{
+    background-size : cover !important;
+    width : 100% !important;
+    height : 49.4vh !important;
+    margin-top : 0px;
+   
+}
+.back{
+    background-color: #ff4700 !important;
+}
+form{
+    font-family :cursive;
+    font-weight : 100;
+    font-size : 20px;
+}
+.form{
+    margin-top :30px;
+}
+
+.btn-submit{
+    width : 25%;
+    font-size : 18px !important;
+}
+.btn-submit:hover{
+    font-size : 20px !important;
+}
+input{
+    font-family : 'verdana', sans-serif !important;
+    font-size :25px !important;
+    padding : 8px 10px 12px 10px !important;
+
+}
+textarea{
+    font-size: 20px !important;
+}
+.front{
+
+    /**Utility background, if you have an Internet connection
+     *then disable the other background-color! 
+    **/
+    background:
+    
+    linear-gradient(
+      rgba(181, 173, 173, 0), 
+      rgba(0, 0, 0, 0.12)
+    ),
+    
+    url(http://placekitten.com/1360/380);
+
+    background-color :green !important;
+}
+.heading{
+    color : white;
+    margin-top : 90px !important;
+}
+.btn-div{
+    height :initial;
+    width :100%;
+    text-align : center;
+    padding-top : 30px;
+}
