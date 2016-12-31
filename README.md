@@ -1,3 +1,3 @@
 # A flipper front page!
 
-<h1>Only chrome compatibility tested!</h1
+<h3>Only chrome compatibility tested!</h3>
